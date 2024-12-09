@@ -1,0 +1,46 @@
+﻿  createCharacter.cpp
+  main.cpp
+E:\AluCiclesGS1\APB\PROG\RA3\RPG_Testing\RPG_Testing\RPGCharacterLibrary.h(15,12): warning C4251: "Character::name": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" debe tener una interfaz DLL para que la usen los clientes de "Character"
+  (compilando archivo de origen "createCharacter.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(527,7):
+      vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  
+E:\AluCiclesGS1\APB\PROG\RA3\RPG_Testing\RPG_Testing\createCharacter.cpp(5,2): error C2440: 'return': no se puede realizar la conversión de 'int' a 'Character'
+      E:\AluCiclesGS1\APB\PROG\RA3\RPG_Testing\RPG_Testing\createCharacter.cpp(5,2):
+      'Character::Character':ninguna función sobrecargada pudo convertir todos los tipos de argumento
+          E:\AluCiclesGS1\APB\PROG\RA3\RPG_Testing\RPG_Testing\RPGCharacterLibrary.h(37,1):
+          puede ser 'Character::Character(Character &&)'
+              E:\AluCiclesGS1\APB\PROG\RA3\RPG_Testing\RPG_Testing\createCharacter.cpp(5,2):
+              'Character::Character(Character &&)': el argumento 1 no puede convertirse de 'int' a 'Character &&'
+                  E:\AluCiclesGS1\APB\PROG\RA3\RPG_Testing\RPG_Testing\createCharacter.cpp(5,31):
+                  Razón: no se puede realizar la conversión de 'int' a 'Character'
+                  E:\AluCiclesGS1\APB\PROG\RA3\RPG_Testing\RPG_Testing\createCharacter.cpp(5,31):
+                  La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+          E:\AluCiclesGS1\APB\PROG\RA3\RPG_Testing\RPG_Testing\RPGCharacterLibrary.h(37,1):
+          o       'Character::Character(const Character &)'
+              E:\AluCiclesGS1\APB\PROG\RA3\RPG_Testing\RPG_Testing\createCharacter.cpp(5,2):
+              'Character::Character(const Character &)': el argumento 1 no puede convertirse de 'int' a 'const Character &'
+                  E:\AluCiclesGS1\APB\PROG\RA3\RPG_Testing\RPG_Testing\createCharacter.cpp(5,31):
+                  Razón: no se puede realizar la conversión de 'int' a 'const Character'
+                  E:\AluCiclesGS1\APB\PROG\RA3\RPG_Testing\RPG_Testing\createCharacter.cpp(5,31):
+                  La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+          E:\AluCiclesGS1\APB\PROG\RA3\RPG_Testing\RPG_Testing\createCharacter.cpp(5,2):
+          al hacer coincidir la lista de argumentos '(int)'
+  
+E:\AluCiclesGS1\APB\PROG\RA3\RPG_Testing\RPG_Testing\RPGCharacterLibrary.h(15,12): warning C4251: "Character::name": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" debe tener una interfaz DLL para que la usen los clientes de "Character"
+  (compilando archivo de origen "main.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(527,7):
+      vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  
+E:\AluCiclesGS1\APB\PROG\RA3\RPG_Testing\RPG_Testing\main.cpp(3,6): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+E:\AluCiclesGS1\APB\PROG\RA3\RPG_Testing\RPG_Testing\main.cpp(17,9): warning C4065: la instrucción switch contiene etiquetas 'default' pero no etiquetas 'case'
+  options.cpp
+E:\AluCiclesGS1\APB\PROG\RA3\RPG_Testing\RPG_Testing\RPGCharacterLibrary.h(15,12): warning C4251: "Character::name": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" debe tener una interfaz DLL para que la usen los clientes de "Character"
+  (compilando archivo de origen "options.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(527,7):
+      vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  
+  Generando código...
+E:\AluCiclesGS1\APB\PROG\RA3\RPG_Testing\RPG_Testing\main.cpp(7,1): error C4700: se utilizó la variable local 'agility' sin inicializar
+E:\AluCiclesGS1\APB\PROG\RA3\RPG_Testing\RPG_Testing\main.cpp(7,1): error C4700: se utilizó la variable local 'strength' sin inicializar
+E:\AluCiclesGS1\APB\PROG\RA3\RPG_Testing\RPG_Testing\main.cpp(7,1): error C4700: se utilizó la variable local 'hp' sin inicializar

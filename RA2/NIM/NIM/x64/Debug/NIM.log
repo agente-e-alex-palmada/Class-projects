@@ -1,0 +1,4 @@
+﻿  NIM.cpp
+E:\AluCiclesGS1\APB\PROG\RA2\NIM\NIM\NIM.cpp(133,1): warning C4715: 'player1': no todas las rutas de acceso de control devuelven un valor
+E:\AluCiclesGS1\APB\PROG\RA2\NIM\NIM\NIM.cpp(170,1): warning C4715: 'player2': no todas las rutas de acceso de control devuelven un valor
+  NIM.vcxproj -> E:\AluCiclesGS1\APB\PROG\RA2\NIM\x64\Debug\NIM.exe

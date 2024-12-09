@@ -1,0 +1,3 @@
+﻿  Resolució_dun_puzzle.cpp
+E:\AluCiclesGS1\APB\PROG\RA1\Resolució_dun_puzzle\Resolució_dun_puzzle\Resolució_dun_puzzle.cpp(9,22): warning C4805: '!=': combinación no segura del tipo 'int' y el tipo 'bool' en la operación
+  Resolució_dun_puzzle.vcxproj -> E:\AluCiclesGS1\APB\PROG\RA1\Resolució_dun_puzzle\x64\Debug\Resolució_dun_puzzle.exe

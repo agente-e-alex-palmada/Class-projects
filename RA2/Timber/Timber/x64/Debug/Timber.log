@@ -1,0 +1,2 @@
+﻿  Timber.cpp
+LINK : fatal error LNK1104: no se puede abrir el archivo 'odbccp32.libsfml-graphics-d.lib'

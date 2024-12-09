@@ -1,0 +1,8 @@
+﻿  RPGCharacterLibrary.cpp
+E:\AluCiclesGS1\APB\PROG\RA3\RPG_Library\RPG_Library\RPGCharacterLibrary.h(14,12): warning C4251: "Character::name": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" debe tener una interfaz DLL para que la usen los clientes de "Character"
+  (compilando archivo de origen "RPGCharacterLibrary.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(527,7):
+      vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  
+     Creando biblioteca E:\AluCiclesGS1\APB\PROG\RA3\RPG_Library\x64\Debug\RPG_Library.lib y objeto E:\AluCiclesGS1\APB\PROG\RA3\RPG_Library\x64\Debug\RPG_Library.exp
+  RPG_Library.vcxproj -> E:\AluCiclesGS1\APB\PROG\RA3\RPG_Library\x64\Debug\RPG_Library.dll

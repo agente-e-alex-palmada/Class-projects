@@ -1,0 +1,26 @@
+﻿  Mosaic.cpp
+E:\AluCiclesGS1\APB\PROG\RA2\Mosaic\Mosaic\Mosaic\Mosaic.cpp(7,38): warning C4244: 'argumento': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+E:\AluCiclesGS1\APB\PROG\RA2\Mosaic\Mosaic\Mosaic\Mosaic.cpp(7,38): warning C4244:         with
+E:\AluCiclesGS1\APB\PROG\RA2\Mosaic\Mosaic\Mosaic\Mosaic.cpp(7,38): warning C4244:         [
+E:\AluCiclesGS1\APB\PROG\RA2\Mosaic\Mosaic\Mosaic\Mosaic.cpp(7,38): warning C4244:             T=float
+E:\AluCiclesGS1\APB\PROG\RA2\Mosaic\Mosaic\Mosaic\Mosaic.cpp(7,38): warning C4244:         ]
+E:\AluCiclesGS1\APB\PROG\RA2\Mosaic\Mosaic\Mosaic\Mosaic.cpp(7,26): warning C4244: 'argumento': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+E:\AluCiclesGS1\APB\PROG\RA2\Mosaic\Mosaic\Mosaic\Mosaic.cpp(7,26): warning C4244:         with
+E:\AluCiclesGS1\APB\PROG\RA2\Mosaic\Mosaic\Mosaic\Mosaic.cpp(7,26): warning C4244:         [
+E:\AluCiclesGS1\APB\PROG\RA2\Mosaic\Mosaic\Mosaic\Mosaic.cpp(7,26): warning C4244:             T=float
+E:\AluCiclesGS1\APB\PROG\RA2\Mosaic\Mosaic\Mosaic\Mosaic.cpp(7,26): warning C4244:         ]
+Mosaic.obj : error LNK2019: símbolo externo "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z) sin resolver al que se hace referencia en la función main
+Mosaic.obj : error LNK2019: símbolo externo "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ) sin resolver al que se hace referencia en la función main
+Mosaic.obj : error LNK2019: símbolo externo "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z) sin resolver al que se hace referencia en la función main
+Mosaic.obj : error LNK2019: símbolo externo "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ) sin resolver al que se hace referencia en la función main
+Mosaic.obj : error LNK2019: símbolo externo "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ) sin resolver al que se hace referencia en la función main
+Mosaic.obj : error LNK2019: símbolo externo "__declspec(dllimport) public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z) sin resolver al que se hace referencia en la función main
+Mosaic.obj : error LNK2019: símbolo externo "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z) sin resolver al que se hace referencia en la función main
+Mosaic.obj : error LNK2019: símbolo externo "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ) sin resolver al que se hace referencia en la función main
+Mosaic.obj : error LNK2019: símbolo externo "__declspec(dllimport) public: static class sf::Color const sf::Color::Red" (__imp_?Red@Color@sf@@2V12@B) sin resolver al que se hace referencia en la función main
+C:\SFML\lib\sfml-graphics-d.lib : warning LNK4272: el tipo de máquina de biblioteca 'x86' está en conflicto con el tipo de máquina de destino 'x64'
+C:\SFML\lib\sfml-window-d.lib : warning LNK4272: el tipo de máquina de biblioteca 'x86' está en conflicto con el tipo de máquina de destino 'x64'
+C:\SFML\lib\sfml-system-d.lib : warning LNK4272: el tipo de máquina de biblioteca 'x86' está en conflicto con el tipo de máquina de destino 'x64'
+C:\SFML\lib\sfml-network-d.lib : warning LNK4272: el tipo de máquina de biblioteca 'x86' está en conflicto con el tipo de máquina de destino 'x64'
+C:\SFML\lib\sfml-audio-d.lib : warning LNK4272: el tipo de máquina de biblioteca 'x86' está en conflicto con el tipo de máquina de destino 'x64'
+E:\AluCiclesGS1\APB\PROG\RA2\Mosaic\Mosaic\x64\Debug\Mosaic.exe : fatal error LNK1120: 9 externos sin resolver

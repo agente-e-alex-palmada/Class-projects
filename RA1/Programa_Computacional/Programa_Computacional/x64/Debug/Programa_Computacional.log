@@ -1,0 +1,4 @@
+﻿  Programa_Computacional.cpp
+E:\AluCiclesGS1\APB\PROG\RA1\Programa_Computacional\Programa_Computacional\Programa_Computacional.cpp(14,22): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+E:\AluCiclesGS1\APB\PROG\RA1\Programa_Computacional\Programa_Computacional\Programa_Computacional.cpp(31,19): warning C4552: "+": el resultado de la expresión no se usa
+  Programa_Computacional.vcxproj -> E:\AluCiclesGS1\APB\PROG\RA1\Programa_Computacional\x64\Debug\Programa_Computacional.exe

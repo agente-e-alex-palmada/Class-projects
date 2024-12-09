@@ -1,0 +1,8 @@
+﻿  checkWinner.cpp
+  insertPlayers.cpp
+  insertScore.cpp
+  main.cpp
+E:\AluCiclesGS1\APB\PROG\RA2\Exam_review\Exam_review\main.cpp(5,6): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+E:\AluCiclesGS1\APB\PROG\RA2\Exam_review\Exam_review\main.cpp(7,17): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Generando código...
+  Exam_review.vcxproj -> E:\AluCiclesGS1\APB\PROG\RA2\Exam_review\x64\Debug\Exam_review.exe
