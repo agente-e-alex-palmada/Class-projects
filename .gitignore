@@ -1,4 +1,4 @@
-.docx
-.drawio
-.pdf
-.png
+*.docx
+*.bat
+*.png
+*.drawio
